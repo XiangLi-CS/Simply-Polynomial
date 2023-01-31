@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Cousework.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\Github project\CSC8501\Cousework\Cousework\main.cpp(136,15): warning C4101: 'ret': unreferenced local variable
+  expression.cpp
+D:\Github project\CSC8501\Cousework\Cousework\expression.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Cousework.vcxproj -> D:\Github project\CSC8501\Cousework\Debug\Coursework.exe
